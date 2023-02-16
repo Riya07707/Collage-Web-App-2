@@ -1,0 +1,29 @@
+.footer {
+    position:fixed;
+bottom:0;
+width:100%;
+text-align: center;
+
+}
+body{
+    background-color: rgb(223, 169, 255);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+img{
+    width:37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 black;
+
+}
+
+img:hover{
+    border-radius: 140px;
+}
